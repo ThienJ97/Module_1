@@ -1,0 +1,17 @@
+table { width: 400px;
+height: 300px;
+border-collapse: collapse;}
+
+caption { color: blue;}
+.a1 {background-color: red;
+color: aliceblue;}
+.a2 {background-color: orange;
+color: aliceblue;}
+.a3 {background-color: blue;
+color: aliceblue;}
+.a4 {color: red;}
+.a5 {color: blue;}
+tbody td { border-collapse: collapse;
+border: 3px solid gray;
+height: 30px;}
+tbody sub { color: black;}

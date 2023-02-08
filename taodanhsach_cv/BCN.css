@@ -1,0 +1,9 @@
+table {
+    width: 400px;
+    height: 400px;
+    background-color: orangered;
+    text-align: center;
+    border-collapse: collapse;
+}
+.a1 { background-color: aliceblue;}
+.a3 { background-color: black;}
